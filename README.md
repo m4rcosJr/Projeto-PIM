@@ -26,6 +26,8 @@ Aplicação educacional desenvolvida em **Python** utilizando **CustomTkinter**,
 ---
 
 ## 📂 Estrutura do Projeto
+
+```
 meu_projeto/
 │
 ├── main.py
@@ -50,8 +52,7 @@ meu_projeto/
 │   └── usuarios.json
 │
 └── assets/
-
-
+```
 ---
 
 ## ▶ Como Executar
